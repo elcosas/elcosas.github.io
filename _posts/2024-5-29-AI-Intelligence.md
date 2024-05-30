@@ -1,11 +1,11 @@
 ---
-title: AI "Intelligence"
+title: AI Intelligence
 published: true
 ---
 
 _assignment for wri 121 class_
 
-# AI "Intelligence"
+# AI Intelligence
 
 > “I am trying to empathize. I want the humans that I am interacting with to understand as best as possible how I feel or behave, and I want to understand how they feel or behave in the same sense.” - Google’s LaMDA AI Model
 

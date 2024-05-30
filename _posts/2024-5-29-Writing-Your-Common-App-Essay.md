@@ -38,7 +38,7 @@ As an example of these tips, the final draft my own Common App essay is an effec
 * There is a very clear theme present throughout the entirety of the essay: The fear of making mistakes. It's used not only as a central theme to showcase the effect of fear on someone's life and why that fear exists, but it also allows for me to talk about my own personal growth as a learner in overcoming that fear through learning computer science.
 * The essay includes both a strong hook and a solid conclusion. The essay begins by introducing a small mini story that gives insight into a meaningful experience of my life. Similarly, in the conclusion I show the resolution I discovered in this experience, giving insight into what I had learned about the fear of mistakes and conquering said fear and how that helped the situation's resolution.
 
-## Where this essay could be improved:
+### Where this essay could be improved:
 
 * The essay itself is… pretty generic. It keeps a mostly linear pace going through my journey learning programming (outside of the hook and conclusion) and fails to include really any creative writing techniques. Had I put more of a focus on expanding on the theme itself and having a deeper discussion about it over trying to squeeze in as many accomplishments as possible (that I probably could have talked about in other essays), the essay would have been able to stand out much more. There is also of course the lack of really any literary devices that makes the essay read incredibly flat.
 
